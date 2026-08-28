@@ -333,4 +333,6 @@ MIT — free to use, modify, and distribute.
 
 ## 🙏 Credits
 
-Built with [Telethon](https://github.com/LonamiWebs/Telethon), [pymongo](https://github.com/mongodb/mongo-python-driver), [Pillow](https://python-pillow.org/), and [qrcode](https://github.com/lincolnloop/python-qrcode).
+[Matrix Robots channel](https://t.me/Matrix_Robots) 
+[chat group](https://t.me/UseMasterUpdate) 
+
